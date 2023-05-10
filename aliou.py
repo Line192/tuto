@@ -9,7 +9,7 @@ print(" all done")
 
 
 
-#pour calcluer une  table de multiplication
+#Pour calcluer une  table de multiplication
 
 x=int(input("Donner un nombre"))
 for i in range(1,11):
